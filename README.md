@@ -55,22 +55,6 @@ A: Yes, feel free to make changes, and do whatever you want, commit, fork, just 
 **Q: How do I know what languages are supported?**
 A: this is entirely based on the web browser APIs (Google Chrome, Microsoft Edge), so you need to ask Google or Microsoft, as I cannot provide an up-to-date answer. I've only tested it with English, French, and Chinese. The languages in the settings menu are the same ones found on the Google and Edge demos.
 
-# Press coverage
-
-Talk-to-ChatGPT has been receiving press coverage since its release. It is currently featured on the following sites:
-
-* BGR.com - https://bgr.com/tech/free-talk-to-chatgpt-chrome-extension-gives-ai-a-voice/
-* GeekFlare - https://geekflare.com/best-chatgpt-chrome-extensions/
-* NerdsChalk - https://nerdschalk.com/talk-to-chatgpt/
-* MakeUseOf - https://www.makeuseof.com/chatgpt-chrome-extensions-better-ai-prompts-answers-in-browsers/
-* TechBriefly - https://techbriefly.com/2023/03/30/how-to-talk-to-chatgpt/
-* Skool.com - https://www.skool.com/chatgpt/fancy-a-real-time-voice-conversation-with-chatgpt
-* GBAtemp - https://gbatemp.net/threads/talk-to-chatgpt-actual-vocal-discussion-with-an-ai-using-voice-recognition-and-text-to-speech-in-chrome.622942/
-* JustGeek - https://www.justgeek.fr/talk-to-chatgpt-discuter-a-voix-haute-avec-chatgpt-103657/
-* Comment Ca Marche - https://www.commentcamarche.net/informatique/technologies/27295-application-et-extension-vocale-chatgpt-de-nouveaux-outils-pour-l-ia/#talk-to-chatgpt--discuter-a-haute-voix-avec-lia
-* Le Blog du Moderateur - https://www.blogdumoderateur.com/meilleures-extensions-chrome-chatgpt/
-* This list will be updated over time.
-
 # Change log
 
 Version 2.6.0 - April 29th, 2023
@@ -111,14 +95,3 @@ Version 2.0.0 - April 10th, 2023:
 * New: keyboard shortcuts to control the addon. The shortcuts are listed in the settings menu or appear when you move the mouse over the UI buttons
 * New: an option to avoid breaking down sentences with commas or other punctuation marks such as colons and semicolons
 * Fixed: vocal commands such as the stop and pause words wouldn't always work because the speech recognition would add a dot at the end
-
-For older change logs, please check the commit messages: https://github.com/C-Nedelcu/talk-to-chatgpt/commits/main
-
-# Donations
-
-Thanks for reading all the way down. Are you enjoying Talk-To-ChatGPT and want me to continue improving it? You can help by making a donation to the project. Please click the Donate button to proceed.
-
-[<img alt="paypal" height="80" src="https://edunext.com.sg/paypal.png" />](https://www.paypal.com/donate/?business=BZ43BM7XSSKKW&no_recurring=0&item_name=Are+you+enjoying+Talk-To-ChatGPT?+If+so%2C+consider+making+a+donation+to+keep+the+project+going%2C+and+I%27ll+continue+improving+it%21&currency_code=EUR)
-
-
-    
